@@ -1,0 +1,6 @@
+{
+  "name": "FormReady",
+  "description": "Fix, compress and resize photos, signatures and PDFs for online applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
